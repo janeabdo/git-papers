@@ -1,5 +1,5 @@
 #first md or whatever this is
-WRITTEN BY: jane
+WRITTEN BY: jane and john!!
 #Introduction
 nananinananana
 #References
