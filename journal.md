@@ -1,5 +1,7 @@
 #first md or whatever this is
 WRITTEN BY: jane
+#Journal
+my affiliation
 #Introduction
 nananinananana
 #Figures
