@@ -1,5 +1,8 @@
 #first md or whatever this is
+<<<<<<< HEAD
 WRITTEN BY: jane and all of my friends 
+#Journal
+my affiliation
 #Introduction
 nananinananana
 #Figures
